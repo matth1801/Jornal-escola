@@ -1,0 +1,56 @@
+*{box-sizing: border-box;}
+       body{margin: 0;
+        font-family: "Poppins", sans-serif;
+        background-color: #EBD5CF;
+         }
+       .topo{
+           background-color: #e2e2e2;
+            padding: 20px;
+           text-align: center;
+    
+    
+        }
+   
+        .menu{
+            background-color: #3c3c3c;
+            overflow: hidden;
+            padding: 16px;
+            text-align: center;
+        }
+   
+        .menu a{
+            color: rgb(255, 255, 255);
+            padding: 10px;
+            text-decoration: none;
+            display: inline;
+            
+        
+        }
+        .coluna-50{
+            float: left;
+            width: 50%;
+            padding: 25px;
+            
+        }
+        
+        .noticia{
+           text-align: justify;
+        
+        }
+        .centralizar{
+            width: 900px; 
+            margin: 0 auto; 
+            padding: 20px;
+            text-align: center;
+            font-size: 17px;
+        }
+     
+        .imagem{
+            padding: 15px;
+        }
+       
+        .inicio{
+            font-family: "Poppins", sans-serif;
+            
+            color: black;
+        }
